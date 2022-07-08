@@ -1,0 +1,14 @@
+h2 {
+    font-size: 20px;
+}
+
+button {
+    cursor: pointer;
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(9, 57, 9);
+    color: #fff;
+}
